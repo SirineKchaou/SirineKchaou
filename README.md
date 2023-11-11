@@ -1,6 +1,6 @@
 ### Salut 👋
 
-<img width="35%" align="right" alt="Github" src="https://github.com/SirineKchaou/Sirine-Kchaou/blob/main/ezgif.com-crop.gif" />
+<img width="35%" align="right" alt="Github" src="https://github.com/SirineKchaou/SirineKchaou/blob/main/ezgif.com-crop.gif" />
 
 Je suis Sirine Kchaou, une étudiante en licence en développement des systèmes d'information, passionnée par la conception d'applications web. Ma maîtrise inclut PHP, Symfony, et les frameworks JS tels qu'Angular et React. Mon intérêt réside dans la création d'applications web innovantes et efficaces.
 
