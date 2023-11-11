@@ -19,6 +19,10 @@ Je suis Sirine Kchaou, une étudiante en licence en développement des systèmes
   Git, GitHub. <br>
   
 - 🔧 &nbsp;
-  PHPStorm, Android Studio, Eclipse.
+  PHPStorm, Android Studio, Eclipse.<br>
+  
+- 📱 &nbsp;
+  Flutter, Kotlin.
+
 
 
