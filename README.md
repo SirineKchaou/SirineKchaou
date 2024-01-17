@@ -16,7 +16,7 @@ Je suis Sirine Kchaou, une étudiante en licence en développement des systèmes
   MySQL, Oracle. <br>
   
 - ⚙️ &nbsp;
-  Git, GitHub. <br>
+  Git, GitHub, GitLab. <br>
   
 - 🔧 &nbsp;
   PHPStorm, Android Studio, Eclipse.<br>
