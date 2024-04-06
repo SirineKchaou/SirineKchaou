@@ -7,13 +7,13 @@ Je suis Sirine Kchaou, une étudiante en licence en développement des systèmes
 <h3> 🛠 &nbsp;Mes compétences</h3>
 
 - 💻 &nbsp;
-  Java, C, Python, Data science. <br>
+  Java, C, Python, Data science, Machine Learning. <br>
   
 - 🌐 &nbsp;
-  HTML, CSS, JavaScript, PHP 7/6, Symfony 5/6, AngularJS, ReactJS. <br>
+  HTML, CSS, JavaScript, PHP 7/6, Symfony 5/6, AngularJS, ReactJS, Jquery. <br>
   
 - 🛢 &nbsp;
-  MySQL, Oracle. <br>
+  MySQL, MariaDB, Oracle. <br>
   
 - ⚙️ &nbsp;
   Git, GitHub, GitLab. <br>
