@@ -14,13 +14,13 @@ Mon intérêt réside dans la création d'applications web innovantes et efficac
   HTML, CSS, JavaScript, PHP 7/6, Symfony 5/6, AngularJS, ReactJS, Jquery. <br>
   
 - 🛢 &nbsp;
-  MySQL, MariaDB, Oracle. <br>
+  MySQL, MariaDB, Oracle, Docker. <br>
   
 - ⚙️ &nbsp;
   Git, GitHub, GitLab. <br>
   
 - 🔧 &nbsp;
-  PHPStorm, Android Studio, Eclipse.<br>
+  PHPStorm, Android Studio, Eclipse, Postman.<br>
   
 - 📱 &nbsp;
   Flutter, Kotlin.
