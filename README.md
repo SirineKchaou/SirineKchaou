@@ -11,7 +11,7 @@ Mon intérêt réside dans la création d'applications web innovantes et efficac
   Java, C, Python, Data science, Machine Learning. <br>
   
 - 🌐 &nbsp;
-  HTML, CSS, JavaScript, PHP 7/6, Symfony 5/6, AngularJS, ReactJS, Jquery. <br>
+  HTML, CSS, JavaScript, Bootstrap, PHP 6/7/8, Symfony 5/6, AngularJS, ReactJS, Jquery. <br>
   
 - 🛢 &nbsp;
   MySQL, MariaDB, Oracle, Docker. <br>
